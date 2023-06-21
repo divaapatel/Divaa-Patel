@@ -1,29 +1,69 @@
+
+
+h1{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
 p{
     font-family: fantasy;
-    font-size: 55px;
-    text-decoration: none;
+    font-size: 50px;
+    
 }
 img{
-    height: 500px;
-    width: 900px;
+    width: 40%;
+    padding: 10px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    
 }
 .burjkhalifa p{
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black; 
+    width: 50%;
+    border: 2px black;
+    height: 150px;
+    display: inline-block;
+    padding-left: 20px;
+    text-align: center;
+    
 }
 .canal p{
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    width: 50%;
+    border: 2px black;
+    height: 150px;
+    display: inline-block;
 }
 .atlantis p{
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    width: 50%;
+    border: 2px black;
+    height: 150px;
+    display: inline-block;
 }
 .museum p{
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    width: 50%;
+    border: 2px black;
+    height: 150px;
+    display: inline-block;
 }
 .mall p{
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    width: 50%;
+    border: 2px black;
+    height: 150px;
+    display: inline-block;
 }
